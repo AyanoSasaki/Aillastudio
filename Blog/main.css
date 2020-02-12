@@ -160,14 +160,14 @@ footer{
     margin: 20px;
 }
 
-.about-top{
+/* .about-top{
     display: flex;
-}
+} */
 
-.about-top img{
+/* .about-top img{
     max-width: 100%;
     height: auto;
-}
+} */
 
 .blog-top img{
     width: 100%;
@@ -388,7 +388,8 @@ footer{
     font-family: 'Maven Pro', sans-serif;
     color: white;
     opacity: 70%;
-    
+    max-width: 100%;
+    height: auto;
 }
 
 .donate-button p{
