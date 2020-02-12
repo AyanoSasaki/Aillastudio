@@ -166,6 +166,7 @@ footer{
 
 .about-top img{
     max-width: 100%;
+    height: auto;
 }
 
 .blog-top img{
@@ -387,6 +388,7 @@ footer{
     font-family: 'Maven Pro', sans-serif;
     color: white;
     opacity: 70%;
+    
 }
 
 .donate-button p{
