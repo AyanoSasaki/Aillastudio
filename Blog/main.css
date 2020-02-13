@@ -39,8 +39,8 @@ header{
 }
 
 .dogs_black_and_white{
-    display: none;
-    width: 90%;
+    /* display: none; */
+    width: 100%;
     margin: auto;
 }
 
@@ -105,9 +105,9 @@ h2{
 h3{
     color: white;
     font-family: 'Maven Pro', sans-serif;
-    font-size: 25px;
-    color: #F0A167;
-    margin: 20px;
+    font-size: 14px;
+    color: white;
+    margin: 30px;
 }
 
 h4{
@@ -826,6 +826,11 @@ footer{
         margin: 20px;
         line-height: 1.5;
         font-size: 18px;
+    }
+
+    h3{
+        font-size: 23px;
+        margin: 115px;
     }
 
 
